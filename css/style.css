@@ -12,9 +12,17 @@ h2  {
     font-family: 'Courier New', 'Helvetica', sans-serif;
 }
 
+body {
+    background-color: #999999;
+}
+
 img {
     max-width: 100%;
-    padding: .5em;
+    align-content: center;
+}
+
+img:hover {
+    opacity: 70%;
 }
 
 button {
